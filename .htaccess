@@ -1,1 +1,2 @@
-
+DirectoryIndex index1.html
+Redirect /index1.html /index1.html
